@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leslie @safeincraziworld 
 - 🌱 I’m currently a master student doing Master of IT in Business (Analytics) in Singapore Management University.
-- 💞️ I’m looking to collaborate on data analytics and data science projects.
+- 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 Connect or follow me on LinkedIn: https://www.linkedin.com/in/leslielongnu/
 
 <!---
